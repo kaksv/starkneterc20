@@ -25,3 +25,13 @@
     )
     rgb(var(--background-start-rgb));
 } */
+.button {
+  width: 30%;
+  height: 45px;
+  margin-left: 5px;
+  background: #f56342;
+  border: none;
+  border-radius: 7px;
+  color: white;
+  cursor: pointer;
+}

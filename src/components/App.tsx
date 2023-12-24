@@ -131,7 +131,7 @@ function App() {
                 <div>
                     <span>Chose a wallet:</span>
                     <p>
-                        <button onClick={() => connectWallet()}>Connect a Wallet</button>
+                        <button className="button" onClick={() => connectWallet()}>Connect a Wallet</button>
                     </p>
                 </div>
             }
